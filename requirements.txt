@@ -1,0 +1,19 @@
+# Core RL and Simulation
+stable-baselines3==2.7.0
+sb3_contrib==2.7.0
+gymnasium==1.2.1
+
+# Data Handling and Numerics
+pandas==2.3.3
+numpy==2.2.6
+scikit-learn==1.6.1
+
+# Data Fetching
+yfinance==0.2.66
+
+# Financial Indicators
+pandas-ta==0.4.71b0
+
+# Plotting and Visualization
+matplotlib==3.10.0
+seaborn==0.13.2
